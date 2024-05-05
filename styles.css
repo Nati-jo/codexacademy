@@ -85,7 +85,7 @@ a:active {
 .mar {
     font-size: 400%;
     color: rgb(105, 58, 58);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .cen {
@@ -98,7 +98,11 @@ a:active {
     text-align: left;
 }
 
+.sel {
+    font-size: 180%;
+    color: rgb(117, 42, 98);
+}
+
 label {
     font-size: 150%;
-    color: rgb(117, 42, 98);
 }
