@@ -1,0 +1,104 @@
+* {
+    margin:0px;
+}
+
+#pic {
+    background-image: url('codex.jpg');
+}
+
+#main {
+    background-color: rgb(221, 218, 36);
+    margin: 70px;
+    padding: 30px; 
+}
+
+.big {
+    font-size: 500%;
+    font-family: cheri;
+    text-align: center;
+}
+
+img {
+   display: block;
+   margin:auto;
+
+}
+
+.lar {
+    font-size: 150%;
+    font-family: Script MT;
+    text-align: center;
+    color:brown;   
+}
+
+hr {
+    background-color: rgb(11, 0, 163);
+    height: 2px;
+    margin-bottom: 20px;
+}
+
+#dif {
+    color: rgb(105, 58, 58);
+    display: block;
+    margin: auto;
+    font-size: 300%;
+    font-family: Hobo Std;
+    margin-bottom: 20px;
+}
+
+.und {
+    text-decoration: none;
+}
+
+a {
+    color: brown;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: white;
+}
+
+.ame {
+    font-size: 120%;
+    text-indent: 30px;
+}
+
+.all {
+    margin-bottom: 200px;
+    margin-top: 200px;
+    text-align: center;
+    border: 10px;
+}
+
+.bor {
+    border-color: rgb(195, 0, 255);
+}
+
+.mar {
+    font-size: 400%;
+    color: rgb(105, 58, 58);
+    margin-bottom: 20px;
+}
+
+.cen {
+    font-size: 200%;
+    border-color: aqua;
+    margin-bottom: 15px;
+}
+
+.lef {
+    text-align: left;
+}
+
+label {
+    font-size: 150%;
+    color: rgb(117, 42, 98);
+}
