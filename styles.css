@@ -3,7 +3,7 @@
 }
 
 #pic {
-    background-image: url('codex.jpg');
+    background-image: url(./codex.jpg);
 }
 
 #main {
